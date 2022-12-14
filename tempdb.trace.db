@@ -1,0 +1,6 @@
+2022-12-13 16:13:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.category,c1_0.customer_leaf,c1_0.customer_root,c1_0.distributor_leaf,c1_0.distributor_root,c1_0.invoice,c1_0.manufacturer,c1_0.pack_size,c1_0.price,c1_0.product_description,c1_0.purchase_date,c1_0.quantity,c1_0.total,c1_0.unit_type from customer c1_0 [42104-214]
+2022-12-13 16:16:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.category,c1_0.customer_leaf,c1_0.customer_root,c1_0.distributor_leaf,c1_0.distributor_root,c1_0.invoice,c1_0.manufacturer,c1_0.pack_size,c1_0.price,c1_0.product_description,c1_0.purchase_date,c1_0.quantity,c1_0.total,c1_0.unit_type from customer c1_0 [42104-214]
